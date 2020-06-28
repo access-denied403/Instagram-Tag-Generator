@@ -1,45 +1,5 @@
 tags = """
-#coder #codergirl #coderlife #coderpower #coders #coderslife #coding 
-#codingbootcamp #codingisfun #codinglife #codingpics #java #javascript 
-#programing #programmer #programmerlife #programmerrepublic #programmers 
-#programmerslife #programming #programminglife #computerscience 
-#softwareengineering #developer #softwareengineer #pythonhub 
-#datascience #machinelearning #artificialintelligenc #python3 
-#coder #codergirl #coderlife #coderpower #coders #coderslife #coding 
-#codingbootcamp #codingisfun #codinglife #codingpics #java #javascript 
-#programing #programmer #programmerlife #programmerrepublic #programmers 
-#programmerslife #programming #programminglife #computerscience 
-#softwareengineering #developer #softwareengineer #pythonhub 
-#datascience #machinelearning #artificialintelligenc #python3 
-#coder #codergirl #coderlife #coderpower #coders #coderslife 
-#coding #codingbootcamp #codingisfun #codinglife #codingpics #java 
-#javascript #programacion #programing #programmer #programmerlife 
-#programmerrepublic #programmers #programmerslife #programming 
-#programminglife #computerscience #js #softwareengineering 
-#informationtechnology #developer #softwareengineer #devgirls 
-#code #motivation #developer #coding #balancedlife #100daysofdata #lifestyle 
-#womenintech #softwaredeveloper #girlswhocode #mindset #100daysofcode 
-#artificialintelligence #stemgirls #stemeducation #worklifebalance #womeninstem 
-#deeplearning #mindfulness #peoplewhocode #balance #datascientist #neuralnetworks 
-#datascience #workhardanywhere #codinglife #dataanalytics #machinelearning 
-#programmersday #codingisfun #programmerrepublic #programmer #codingmemes #programming 
-#creativecoding #predictiveprogramming #codinglife #codingbootcamp #programminglife 
-#programmering #programmingisfun #programminghumor #codingforkids 
-#pythonprogramming #computerprogramming #programmingjokes #programmers #programmerjokes 
-#codingpics #codingdays #programmerslife #programmingmemes #programmerlife #python 
-#coder #coderlife #coderpower #coders #coderslife #coding #codingbootcamp #coding #programacion 
-#programing #programmer#programmerlife #programmerrepublic #programmers #programmerslife 
-#programming #programminglife #computerscience #pythonprojects #python3 #pythoncode 
-#machinelearning #pythonhub #artificialintelligence #informationtechnology #developer 
-#softwareengineer #programmerhumor #cybersecurity #curious_programmer 
-#coder #codergirl #coderlife #coderpower #coders #coderslife #coding #codingbootcamp #codingisfun 
-#codinglife #codingpics #java #javascript #programacion #programing #programmer #programmerlife 
-#programmerrepublic #programmers #programmerslife #programming #programminglife #computerscience 
-#js #softwareengineering #informationtechnology #developer #softwareengineer #programmerhumor 
-#programming #coding #programmer #developer #python #code #technology #coder #javascript #java 
-#computerscience #tech #software #html #webdeveloper #webdevelopment #linux #css #codinglife 
-#webdesign #hacking #php #development #softwaredeveloper #programmers #programmingmemes 
-#programminglife #softwareengineer 
+#mindset #curious_programmer #coder #hacking #artificialintelligence #webdeveloper #developer #codinglife #programmerrepublic #js #html #100daysofcode #predictiveprogramming #programmers #programming #datascience #devgirls #python3 #datascientist #webdesign #programmerhumor #stemgirls #java #artificialintelligenc #worklifebalance #cybersecurity #python #girlswhocode #coderlife #linux #css #100daysofdata #coders #womeninstem #javascript #codingpics #pythonprogramming #programmingjokes #stemeducation #codingdays #softwareengineering #programing #codingmemes #machinelearning #coderslife #coding #codingbootcamp #codergirl #motivation #programmer #computerscience #php #codingisfun #lifestyle #balance #softwaredeveloper #dataanalytics #workhardanywhere #programmersday #mindfulness #programminghumor #deeplearning #balancedlife #pythonhub #programmerlife #programmerslife #code #neuralnetworks #womenintech #programmingisfun #technology #informationtechnology #softwareengineer #programmerjokes #programmering #programacion #peoplewhocode #programmingmemes #pythoncode #development #coderpower #codingforkids #creativecoding #programminglife #pythonprojects #computerprogramming #webdevelopment #tech #software
 """
 
 class Tag_Generator(object):
